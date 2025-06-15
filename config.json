@@ -2,6 +2,7 @@
   "FIREBASE_CONFIG": {
     "apiKey":"AIzaSyAOv5C_koauJDqvP7IJXFuUhVMM-tAmkRU",
     "authDomain":"streeam3o.firebaseapp.com",
+    "databaseURL": "https://streeam3o-default-rtdb.firebaseio.com",
     "projectId":"streeam3o",
     "storageBucket":"streeam3o.appspot.com",
     "messagingSenderId":"288510721898",

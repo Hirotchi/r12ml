@@ -327,6 +327,7 @@
     "BLOGGER_FEED_URL_TEMPLATE": "https://www.blogger.com/feeds/{blogId}/posts/default/{postId}?alt=json-in-script"
   },
   "CONFIG": {
+    "IMGBB_API_KEY": "3bc4c95d190e0372bc48a758af8c5390",
     "SHORTLINK_SECRET_KEY": "122655221",
     "BLOGGER_ID": "5521695304446174148",
     "IMAGE_MAX_SIZE_BYTES": 5242880,
